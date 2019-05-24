@@ -20,3 +20,7 @@
 
 717-2_sia-5-3.c: post-order depth-first search (BST) by means of recursion. Inp and outp: int.
 
+717-2_sia-6-1.c: sort an array with a comb sort. Inp and outp: int.
+
+717-2_sia-6-2.c: sort an array with a shell sort. Inp and outp: int.
+
