@@ -14,3 +14,9 @@
 
 717-2_sia-4-1.c: implement binary search tree. Inp and outp: int.
 
+717-2_sia-5-1.c: breadth-first search (BST). Inp and outp: int.
+ 
+717-2_sia-5-2.c: pre-order depth-first search (BST) w/out recursion. Inp and outp: int.
+
+717-2_sia-5-3.c: post-order depth-first search (BST) by means of recursion. Inp and outp: int.
+
