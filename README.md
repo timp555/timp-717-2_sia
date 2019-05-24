@@ -24,3 +24,6 @@
 
 717-2_sia-6-2.c: sort an array with a shell sort. Inp and outp: int.
 
+717-2_sia-7-1.c: sort an array with a quick sort. Inp and outp: int.
+
+717-2_sia-7-2.c: sort an array with a heap sort. Inp and outp: int.
