@@ -8,4 +8,9 @@
 
 717-2_sia-2-2.c: find sum of even cubes. Inp and outp: int.
 
+717-2_sia-3-1.c: implement one-linked lists. Inp and outp: int.
+
+717-2_sia-3-2.c: implement two-linked lists. Inp and outp: int.
+
+
 
